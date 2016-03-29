@@ -1,2 +1,3 @@
 var g = G$('John','Deo')
-g.greet().setLang('es').greet(true)
+
+g.greet().setLang('es').greet(true).log()
